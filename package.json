@@ -1,0 +1,28 @@
+{
+  "name": "genius-car-services-jwt-server-68",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaofficialbd/genius-car-services-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnaofficialbd/genius-car-services-server/issues"
+  },
+  "homepage": "https://github.com/mnaofficialbd/genius-car-services-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  }
+}
